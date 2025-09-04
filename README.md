@@ -51,18 +51,9 @@ Evolve Store is a **full-featured E-Commerce Web API** built with **ASP.NET Core
 
 ---
 
-## 📂 Project Structure
+## 📌 API Endpoints (Summary)
 
-Evolve_Store/
-│── Controllers/ # API Controllers (Accounts, Basket, Orders, Payments, Products)
-│── Domain/Models/ # Entities & Domain Models
-│── Domain/DTOs/ # Data Transfer Objects
-│── Infrastructure/ # Persistence & Repository Implementation
-│── Services/ # Business Logic & Services
-│── appsettings.json # Configurations (DB, JWT, Stripe, Email, etc.)
-
-📌 API Endpoints (Summary)
-🔐 Authentication
+**🔐 Authentication**
 
 POST /api/accounts/signup → Register new user
 
@@ -76,7 +67,7 @@ POST /api/accounts/password/reset → Reset password
 
 POST /api/accounts/logout → Logout and invalidate refresh token
 
-🛍️ Products
+**🛍️ Products**
 
 GET /api/product → Get all products (with pagination & filtering)
 
@@ -84,7 +75,7 @@ GET /api/product/product/{id} → Get product by ID
 
 GET /api/product/category/{id} → Get products by category
 
-🛒 Basket
+**🛒 Basket**
 
 GET /api/basket/{id} → Get basket
 
@@ -92,7 +83,7 @@ POST /api/basket → Update/Create basket
 
 DELETE /api/basket/{id} → Delete basket
 
-📦 Orders
+**📦 Orders**
 
 POST /api/orders → Create new order
 
@@ -102,6 +93,6 @@ GET /api/orders/{id} → Get order details
 
 GET /api/orders/deliveryMethods → Get available delivery methods
 
-💳 Payments
+**💳 Payments**
 
 POST /api/payments?basketId={id} → Create/Update payment intent
