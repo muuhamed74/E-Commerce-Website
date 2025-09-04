@@ -1,0 +1,11 @@
+E:\Coding\Evolve_Store\Store.Test\bin\Debug\net8.0\Store.Test.deps.json
+E:\Coding\Evolve_Store\Store.Test\bin\Debug\net8.0\Store.Test.dll
+E:\Coding\Evolve_Store\Store.Test\bin\Debug\net8.0\Store.Test.pdb
+E:\Coding\Evolve_Store\Store.Test\obj\Debug\net8.0\Store.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Evolve_Store\Store.Test\obj\Debug\net8.0\Store.Test.AssemblyInfoInputs.cache
+E:\Coding\Evolve_Store\Store.Test\obj\Debug\net8.0\Store.Test.AssemblyInfo.cs
+E:\Coding\Evolve_Store\Store.Test\obj\Debug\net8.0\Store.Test.csproj.CoreCompileInputs.cache
+E:\Coding\Evolve_Store\Store.Test\obj\Debug\net8.0\Store.Test.dll
+E:\Coding\Evolve_Store\Store.Test\obj\Debug\net8.0\refint\Store.Test.dll
+E:\Coding\Evolve_Store\Store.Test\obj\Debug\net8.0\Store.Test.pdb
+E:\Coding\Evolve_Store\Store.Test\obj\Debug\net8.0\ref\Store.Test.dll

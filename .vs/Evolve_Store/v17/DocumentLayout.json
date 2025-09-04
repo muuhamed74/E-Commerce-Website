@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\Evolve_Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|e:\\coding\\evolve_store\\evolve_store\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|solutionrelative:evolve_store\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|e:\\coding\\evolve_store\\evolve_store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|solutionrelative:evolve_store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|e:\\coding\\evolve_store\\evolve_store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|solutionrelative:evolve_store\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|e:\\coding\\evolve_store\\evolve_store\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|solutionrelative:evolve_store\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|e:\\coding\\evolve_store\\evolve_store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66D330D-F418-483E-A504-4971D32101BC}|Evolve_Store\\Evolve_Store.csproj|solutionrelative:evolve_store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\Evolve_Store\\Evolve_Store\\Program.cs",
+              "RelativeDocumentMoniker": "Evolve_Store\\Program.cs",
+              "ToolTip": "E:\\Coding\\Evolve_Store\\Evolve_Store\\Program.cs",
+              "RelativeToolTip": "Evolve_Store\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T12:38:17.054Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Coding\\Evolve_Store\\Evolve_Store\\.gitignore",
+              "RelativeDocumentMoniker": "Evolve_Store\\.gitignore",
+              "ToolTip": "E:\\Coding\\Evolve_Store\\Evolve_Store\\.gitignore",
+              "RelativeToolTip": "Evolve_Store\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-04T17:14:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Coding\\Evolve_Store\\Evolve_Store\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Evolve_Store\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Coding\\Evolve_Store\\Evolve_Store\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Evolve_Store\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:47:36.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CachedAttribute.cs",
+              "DocumentMoniker": "E:\\Coding\\Evolve_Store\\Evolve_Store\\Helpers\\CachedAttribute.cs",
+              "RelativeDocumentMoniker": "Evolve_Store\\Helpers\\CachedAttribute.cs",
+              "ToolTip": "E:\\Coding\\Evolve_Store\\Evolve_Store\\Helpers\\CachedAttribute.cs",
+              "RelativeToolTip": "Evolve_Store\\Helpers\\CachedAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:06:16.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Coding\\Evolve_Store\\Evolve_Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Evolve_Store\\appsettings.json",
+              "ToolTip": "E:\\Coding\\Evolve_Store\\Evolve_Store\\appsettings.json",
+              "RelativeToolTip": "Evolve_Store\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T11:37:55.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

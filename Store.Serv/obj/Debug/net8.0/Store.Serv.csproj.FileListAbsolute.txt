@@ -1,0 +1,17 @@
+E:\Coding\Evolve_Store\Store.Serv\bin\Debug\net8.0\Store.Serv.deps.json
+E:\Coding\Evolve_Store\Store.Serv\bin\Debug\net8.0\Store.Serv.dll
+E:\Coding\Evolve_Store\Store.Serv\bin\Debug\net8.0\Store.Serv.pdb
+E:\Coding\Evolve_Store\Store.Serv\bin\Debug\net8.0\Store.Domain.dll
+E:\Coding\Evolve_Store\Store.Serv\bin\Debug\net8.0\Store.Repo.dll
+E:\Coding\Evolve_Store\Store.Serv\bin\Debug\net8.0\Store.Domain.pdb
+E:\Coding\Evolve_Store\Store.Serv\bin\Debug\net8.0\Store.Repo.pdb
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\Store.Serv.csproj.AssemblyReference.cache
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\Store.Serv.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\Store.Serv.AssemblyInfoInputs.cache
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\Store.Serv.AssemblyInfo.cs
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\Store.Serv.csproj.CoreCompileInputs.cache
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\Store.Serv.csproj.Up2Date
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\Store.Serv.dll
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\refint\Store.Serv.dll
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\Store.Serv.pdb
+E:\Coding\Evolve_Store\Store.Serv\obj\Debug\net8.0\ref\Store.Serv.dll

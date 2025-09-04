@@ -1,0 +1,12 @@
+E:\Coding\Evolve_Store\Store.Domain\bin\Debug\net8.0\Store.Domain.deps.json
+E:\Coding\Evolve_Store\Store.Domain\bin\Debug\net8.0\Store.Domain.dll
+E:\Coding\Evolve_Store\Store.Domain\bin\Debug\net8.0\Store.Domain.pdb
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\Store.Domain.csproj.AssemblyReference.cache
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\Store.Domain.AssemblyInfoInputs.cache
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\Store.Domain.AssemblyInfo.cs
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\Store.Domain.csproj.CoreCompileInputs.cache
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\Store.Domain.dll
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\refint\Store.Domain.dll
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\Store.Domain.pdb
+E:\Coding\Evolve_Store\Store.Domain\obj\Debug\net8.0\ref\Store.Domain.dll

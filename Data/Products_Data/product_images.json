@@ -1,0 +1,34 @@
+[
+    {
+        "ProductId": 1,
+        "ImagePath": "Images/Bundles/bundle1.jpg"
+    },
+    {
+        "ProductId": 1,
+        "ImagePath": "Images/Bundles/bundle2.jpg"
+    },
+    {
+        "ProductId": 2,
+        "ImagePath": "Images/Creatine/creatine1.jpg"
+    },
+    {
+        "ProductId": 2,
+        "ImagePath": "Images/Creatine/creatine2.jpg"
+    },
+    {
+        "ProductId": 3,
+        "ImagePath": "Images/Pre/pre1.jpg"
+    },
+    {
+        "ProductId": 3,
+        "ImagePath": "Images/Pre/pre2.jpg"
+    },
+    {
+        "ProductId": 4,
+        "ImagePath": "Images/Whey%20Protein/whey1.jpg"
+    },
+    {
+        "ProductId": 4,
+        "ImagePath": "Images/Whey%20Protein/whey2.jpg"
+    }
+]
